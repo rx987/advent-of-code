@@ -1,4 +1,4 @@
-## adevnt-of-code
+## advent-of-code
 
 My Advent of Code solutions.
 
